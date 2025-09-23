@@ -1,4 +1,4 @@
-🔗 🔗 **Live Demo**: [FoodLink Dashboard](https://foodlinktechmesh-bc7c831wp-ananyamallick2006-8238s-projects.vercel.app/)
+🔗 **Live Demo**: [FoodLink Dashboard](https://foodlinktechmesh-bc7c831wp-ananyamallick2006-8238s-projects.vercel.app/)
 
 # 🍽️ FoodLink Dashboard - AI-Powered Food Waste Reduction Platform
 
