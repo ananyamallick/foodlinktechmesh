@@ -1,4 +1,5 @@
-🔗 **Live Demo**: [FoodLink Dashboard]([https://foodlinktechmesh-bc7c831wp-ananyamallick2006-8238s-projects.vercel.app](https://foodlinktechmesh-bc7c831wp-ananyamallick2006-8238s-projects.vercel.app/)/)
+🔗 🔗 **Live Demo**: [FoodLink Dashboard](https://foodlinktechmesh-bc7c831wp-ananyamallick2006-8238s-projects.vercel.app/)
+
 # 🍽️ FoodLink Dashboard - AI-Powered Food Waste Reduction Platform
 
 A comprehensive Next.js dashboard for managing food donations, NGO needs, and logistics with AI-powered matching and packaging assistance.
